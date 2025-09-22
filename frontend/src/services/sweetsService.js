@@ -1,6 +1,7 @@
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://localhost:5000';
+axios.defaults.baseURL = 'https://sweet-shop-management-system-backend-fety.onrender.com';
+// axios.defaults.baseURL = 'http://localhost:5000';
 
 const API_URL = '/api/sweets';
 
