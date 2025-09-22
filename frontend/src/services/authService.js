@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// const API_URL = 'https://sweet-shop-management-system-backend-fety.onrender.com'; // Adjust to your backend URL
+const API_URL = 'https://sweet-shop-management-system-backend-fety.onrender.com'; // Adjust to your backend URL
 // const API_URL = 'http://localhost:5000/api/auth'; // Adjust to your backend URL
 
 export const login = async (credentials) => {
